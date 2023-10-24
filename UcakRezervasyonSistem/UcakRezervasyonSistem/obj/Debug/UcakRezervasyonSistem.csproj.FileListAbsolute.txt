@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project5\UcakRezervasyonSistem\UcakRezervasyonSistem\bin\Debug\UcakRezervasyonSistem.exe.config
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project5\UcakRezervasyonSistem\UcakRezervasyonSistem\bin\Debug\UcakRezervasyonSistem.exe
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project5\UcakRezervasyonSistem\UcakRezervasyonSistem\bin\Debug\UcakRezervasyonSistem.pdb
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project5\UcakRezervasyonSistem\UcakRezervasyonSistem\obj\Debug\UcakRezervasyonSistem.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project5\UcakRezervasyonSistem\UcakRezervasyonSistem\obj\Debug\UcakRezervasyonSistem.Form1.resources
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project5\UcakRezervasyonSistem\UcakRezervasyonSistem\obj\Debug\UcakRezervasyonSistem.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project5\UcakRezervasyonSistem\UcakRezervasyonSistem\obj\Debug\UcakRezervasyonSistem.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project5\UcakRezervasyonSistem\UcakRezervasyonSistem\obj\Debug\UcakRezervasyonSistem.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project5\UcakRezervasyonSistem\UcakRezervasyonSistem\obj\Debug\UcakRezervasyonSistem.exe
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project5\UcakRezervasyonSistem\UcakRezervasyonSistem\obj\Debug\UcakRezervasyonSistem.pdb
